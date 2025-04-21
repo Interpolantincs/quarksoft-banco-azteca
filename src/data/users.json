@@ -1,0 +1,34 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nombres": "Ricardo",
+            "apellidoMaterno": "Martínez",
+            "apellidoPaterno": "López"
+        },
+        {
+            "id": 2,
+            "nombres": "Mariana",
+            "apellidoMaterno": "Pérez",
+            "apellidoPaterno": "Gómez"
+        },
+        {
+            "id": 3,
+            "nombres": "Alejandro",
+            "apellidoMaterno": "Sánchez",
+            "apellidoPaterno": "Díaz"
+        },
+        {
+            "id": 4,
+            "nombres": "Fernanda",
+            "apellidoMaterno": "Ramírez",
+            "apellidoPaterno": "Flores"
+        },
+        {
+            "id": 5,
+            "nombres": "Gabriel",
+            "apellidoMaterno": "Morales",
+            "apellidoPaterno": "Vargas"
+        }
+    ]
+}
